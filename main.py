@@ -22,13 +22,14 @@ warnings.filterwarnings("ignore", category=UserWarning)
 
 # Verfügbare Whisper-Modelle mit Speicheranforderungen (in MB)
 WHISPER_MODELS = {
-    "Tiny (schnell, niedrige Genauigkeit)": {"name": "tiny", "memory": 75},
-    "Base (ausgewogen)": {"name": "base", "memory": 150},
-    "Small (gut)": {"name": "small", "memory": 500},
-    "Medium (sehr gut)": {"name": "medium", "memory": 1500},
-    "Large (beste Qualität)": {"name": "large", "memory": 3000},
-    "Large V2 (beste Qualität, neu)": {"name": "large-v2", "memory": 3000},
-    "Large V3 (beste Qualität, neueste)": {"name": "large-v3", "memory": 3000}
+    "Tiny (schnell, niedrige Genauigkeit)": {"name": "tiny", "memory": 72},
+    "Base (ausgewogen)": {"name": "base", "memory": 139},
+    "Small (gut)": {"name": "small", "memory": 461},
+    "Medium (sehr gut)": {"name": "medium", "memory": 1420},
+    "Turbo (sehr schnell, eventuell ungenau)": {"name": "turbo", "memory": 1510},
+    "Large (beste Qualität)": {"name": "large", "memory": 2880},
+    "Large V2 (beste Qualität, neu)": {"name": "large-v2", "memory": 2870},
+    "Large V3 (beste Qualität, neueste)": {"name": "large-v3", "memory": 2880}
 }
 
 def check_cuda_availability():
@@ -152,7 +153,8 @@ class TranscriptionWorker(QThread):
             if self.is_cancelled:
                 raise InterruptedError("Transkription wurde abgebrochen")
 
-            result_en = self.model.transcribe(audio_file, task="translate", language="de")
+            # result_en = self.model.transcribe(audio_file, task="translate", language="de")
+            result_en = self.model.transcribe(audio_file, task="translate", language="en")
 
             # Dateien speichern
             self.status_signal.emit("Speichere Dateien...")
