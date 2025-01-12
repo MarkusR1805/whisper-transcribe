@@ -1,7 +1,7 @@
 <div align=center><h1>OpenAI-Whisper for *Macbook Pro M3 Max | Windows</h1></div>
 *Testet on Macbook Pro M3 Max with 36GB <p>
 
-![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f219a87-05c9-4510-bd4c-eb5856628332/original=true,quality=90/42965033.jpeg)
+![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5792b960-3a81-40e8-a012-21676bc65311/original=true,quality=90/Bildschirmfoto%202025-01-12%20um%2020.02.30.jpeg)
 
 ## For Windows-User show this very good Video: 🤙
 [![](http://markdown-videos-api.jorgenkh.no/youtube/1TODiH-xAas)](https://youtu.be/1TODiH-xAas?si=QdKn6o1r38xYz8ZC)
