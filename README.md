@@ -40,24 +40,24 @@ git clone https://github.com/MarkusR1805/whisper-transcribe.git
 
 ## These Python libraries are installed by the requirements.txt
 
-certifi==2024.12.14
-charset-normalizer==3.4.1
-ffmpeg-python==0.2.0
-filelock==3.16.1
-fsspec==2024.12.0
-future==1.0.0
-idna==3.10
-Jinja2==3.1.5
-llvmlite==0.43.0
-MarkupSafe==3.0.2
-more-itertools==10.5.0
-mpmath==1.3.0
-networkx==3.4.2
-numba==0.60.0
-numpy==2.0.2
-openai-whisper==20240930
-psutil==6.1.1
-PyQt6==6.8.0
+certifi==2024.12.14<br>
+charset-normalizer==3.4.1<br>
+ffmpeg-python==0.2.0<br>
+filelock==3.16.1<br>
+fsspec==2024.12.0<br>
+future==1.0.0<br>
+idna==3.10<br>
+Jinja2==3.1.5<br>
+llvmlite==0.43.0<br>
+MarkupSafe==3.0.2<br>
+more-itertools==10.5.0<br>
+mpmath==1.3.0<br>
+networkx==3.4.2<br>
+numba==0.60.0<br>
+numpy==2.0.2<br>
+openai-whisper==20240930<br>
+psutil==6.1.1<br>
+PyQt6==6.8.0<br>
 PyQt6-Qt6==6.8.1
 PyQt6_sip==13.9.1
 regex==2024.11.6
