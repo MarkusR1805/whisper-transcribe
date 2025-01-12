@@ -1,6 +1,8 @@
 <div align=center><h1>OpenAI-Whisper for *Macbook Pro M3 Max | Windows</h1></div>
 *Testet on Macbook Pro M3 Max with 36GB*
 
+![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f219a87-05c9-4510-bd4c-eb5856628332/original=true,quality=90/42965033.jpeg)
+
 ## This program supports the following video formats: .mp4, .avi, .mkv, .mov
 
 # Install on Mac
