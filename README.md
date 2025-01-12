@@ -35,7 +35,7 @@ Install Python
 <h2>Clone Repository</h2>
 
 ```sh
-https://github.com/MarkusR1805/whisper-transcribe.git
+git clone https://github.com/MarkusR1805/whisper-transcribe.git
 ```
 
 <h2>OPTIONAL!! Create python venv</h2>
