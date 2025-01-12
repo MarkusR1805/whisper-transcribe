@@ -1,8 +1,8 @@
 <div align=center><h1>OpenAI-Whisper for *Macbook Pro M3 Max | Windows</h1></div>
 *Testet on Macbook Pro M3 Max with 36GB*
 
-## The old version ‘main.py’ has been replaced by the former version ‘main2.py’! From now on you can select at least 2 vision models, and if you change the code, you can also add more.
-## Supported image formats: jpg, jpeg, png, bmp
+## This program supports the following video formats: .mp4, .avi, .mkv, .mov
+
 Install Ollama
 <http://ollama.com>
 
