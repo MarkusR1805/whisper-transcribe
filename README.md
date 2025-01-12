@@ -58,18 +58,18 @@ numpy==2.0.2<br>
 openai-whisper==20240930<br>
 psutil==6.1.1<br>
 PyQt6==6.8.0<br>
-PyQt6-Qt6==6.8.1
-PyQt6_sip==13.9.1
-regex==2024.11.6
-requests==2.32.3
-setuptools==75.8.0
-six==1.17.0
-sympy==1.13.1
-tiktoken==0.8.0
-torch==2.5.1
-tqdm==4.67.1
-typing_extensions==4.12.2
-urllib3==2.3.0
+PyQt6-Qt6==6.8.1<br>
+PyQt6_sip==13.9.1<br>
+regex==2024.11.6<br>
+requests==2.32.3<br>
+setuptools==75.8.0<br>
+six==1.17.0<br>
+sympy==1.13.1<br>
+tiktoken==0.8.0<br>
+torch==2.5.1<br>
+tqdm==4.67.1<br>
+typing_extensions==4.12.2<br>
+urllib3==2.3.0<br>
 
 <h2>OPTIONAL!! Create python venv</h2>
 
