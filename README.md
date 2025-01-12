@@ -89,6 +89,5 @@ python main.py
 
 ![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
 
-[![](https://youtu.be/FxCxbUwAnZQ)](https://youtu.be/FxCxbUwAnZQ)
-
-[![](http://markdown-videos-api.jorgenkh.no/youtube/FxCxbUwAnZQ)](https://youtu.be/FxCxbUwAnZQ)|<p><ul><li>Clearly shows it's a youtube video</li><li>Play button and backdrop added</li><li>Black bars removed</li><li>Redirects to video</li></ul>
+[![](http://markdown-videos-api.jorgenkh.no/youtube/FxCxbUwAnZQ)](https://youtu.be/FxCxbUwAnZQ)|<p>
+[![](http://markdown-videos-api.jorgenkh.no/youtube/1TODiH-xAas)](https://youtu.be/1TODiH-xAas?si=QdKn6o1r38xYz8ZC)|<p>
