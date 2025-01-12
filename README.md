@@ -4,9 +4,8 @@
 ## This program supports the following video formats: .mp4, .avi, .mkv, .mov
 
 # Install on Mac
-You need a package manager, my recommendation is Homebrew.
-Website:
-
+## You need a package manager, my recommendation is Homebrew.
+## Website:
 ```sh
 https://brew.sh
 ```
@@ -22,14 +21,7 @@ brew update
 brew install ffmpeg
 ```
 
-For main.py please install 2 models
-
-```sh
-ollama pull llama3.2-vision
-```
-```sh
-ollama pull llava:13b
-```
+## You need Git on your System
 
 Install Git
 <https://git-scm.com/downloads>
@@ -40,21 +32,15 @@ Install Python
 <h2>Clone Repository</h2>
 
 ```sh
-git clone https://github.com/MarkusR1805/Image-to-Prompt.git
+https://github.com/MarkusR1805/whisper-transcribe.git
 ```
 
 <h2>OPTIONAL!! Create python venv</h2>
 
 ```sh
-python -m venv image-to-prompt
-cd image-to-prompt
+python -m venv whisper-transcribe
+cd whisper-transcribe
 source bin/activate
-```
-
-<h1>Attention, very important!</h1>
-If the program does not start or an error message appears, be sure to execute the requirements.txt.
-
-```sh
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
@@ -65,4 +51,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![Promptgenerator](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/26f2122f-6738-45e1-bcf9-0e62f281622c/original=true,quality=90/36686347.jpeg)
+![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
