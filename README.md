@@ -3,8 +3,13 @@
 
 ## This program supports the following video formats: .mp4, .avi, .mkv, .mov
 
-Install Ollama
-<http://ollama.com>
+# Install on Mac
+You need a package manager, my recommendation is Homebrew.
+Website:
+
+```sh
+https://brew.sh
+```
 
 For main.py please install 2 models
 
