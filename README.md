@@ -88,9 +88,9 @@ python main.py
 ```
 
 ![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
-<p>
+
 My Video for this Tool
 [![](https://youtu.be/FxCxbUwAnZQ)](https://youtu.be/FxCxbUwAnZQ)
-<p>
+
 For Windows users I recommend this video in German
 [![](https://youtu.be/1TODiH-xAas?si=Nmp2_koXyHb3DaIo)](https://youtu.be/1TODiH-xAas?si=Nmp2_koXyHb3DaIo)
