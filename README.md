@@ -93,7 +93,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
+![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89cce0c4-3e45-47bf-a592-9023ba3c87ff/original=true,quality=90/12-01-2025-195113-transparent_00000_.jpeg)
 
 [![](http://markdown-videos-api.jorgenkh.no/youtube/FxCxbUwAnZQ)](https://youtu.be/FxCxbUwAnZQ)
 [![](http://markdown-videos-api.jorgenkh.no/youtube/1TODiH-xAas)](https://youtu.be/1TODiH-xAas?si=QdKn6o1r38xYz8ZC)
