@@ -38,6 +38,39 @@ Install Python
 git clone https://github.com/MarkusR1805/whisper-transcribe.git
 ```
 
+## These Python libraries are installed by the requirements.txt
+
+certifi==2024.12.14
+charset-normalizer==3.4.1
+ffmpeg-python==0.2.0
+filelock==3.16.1
+fsspec==2024.12.0
+future==1.0.0
+idna==3.10
+Jinja2==3.1.5
+llvmlite==0.43.0
+MarkupSafe==3.0.2
+more-itertools==10.5.0
+mpmath==1.3.0
+networkx==3.4.2
+numba==0.60.0
+numpy==2.0.2
+openai-whisper==20240930
+psutil==6.1.1
+PyQt6==6.8.0
+PyQt6-Qt6==6.8.1
+PyQt6_sip==13.9.1
+regex==2024.11.6
+requests==2.32.3
+setuptools==75.8.0
+six==1.17.0
+sympy==1.13.1
+tiktoken==0.8.0
+torch==2.5.1
+tqdm==4.67.1
+typing_extensions==4.12.2
+urllib3==2.3.0
+
 <h2>OPTIONAL!! Create python venv</h2>
 
 ```sh
