@@ -88,3 +88,5 @@ python main.py
 ```
 
 ![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
+
+<video style="width: 100%; height: auto;" controls muted src="./video/Hilfslinien-Youtube.mp4" poster="./video/Hilfslinien.jpg"></video>
