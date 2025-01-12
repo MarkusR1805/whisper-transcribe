@@ -15,6 +15,12 @@ To do this, open your terminal and execute the following command:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+```sh
+brew update
+```
+```sh
+brew install ffmpeg
+```
 
 For main.py please install 2 models
 
