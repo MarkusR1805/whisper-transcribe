@@ -89,6 +89,4 @@ python main.py
 
 ![openai-whisper](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ccc78288-c4b1-4660-af9b-6856c860dc67/original=true,quality=90/48383996.jpeg)
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/FxCxbUwAnZQ" type="video/mp4">
-</video>
+https://example.com/video.mp4
