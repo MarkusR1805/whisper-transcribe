@@ -12,6 +12,7 @@
 https://brew.sh
 ```
 
+## Install Homebrew
 To do this, open your terminal and execute the following command:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
