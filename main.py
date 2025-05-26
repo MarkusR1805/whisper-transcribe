@@ -313,7 +313,7 @@ class TranscriptionApp(QWidget):
         self.label_model = QLabel("Whisper-Modell:")
         self.model_combo = QComboBox()
         self.model_combo.addItems(WHISPER_MODELS.keys())
-        self.model_combo.setCurrentText([k for k, v in WHISPER_MODELS.items() if v["name"] == "small"][0])
+        self.model_combo.setCurrentText([k for k, v in WHISPER_MODELS.items() if v["name"] == "medium"][0])
         self.model_combo.currentTextChanged.connect(self.update_model_info)
         model_layout.addWidget(self.label_model)
         model_layout.addWidget(self.model_combo)
